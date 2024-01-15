@@ -1,0 +1,15 @@
+.date-picker-component {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    .date-picker-container {
+        width: 350px;
+        height: 240px;
+        font-size: 16px;
+        border-radius: 10px;
+        border:  1px solid black;
+        overflow: hidden;
+    }
+}
